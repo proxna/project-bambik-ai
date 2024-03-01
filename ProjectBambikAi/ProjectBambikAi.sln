@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectBambikAi.BackgroundWorker", "ProjectBambikAi.BackgroundWorker\ProjectBambikAi.BackgroundWorker.csproj", "{3B33617D-2D58-43C3-915C-0E4823C8ADCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B33617D-2D58-43C3-915C-0E4823C8ADCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B33617D-2D58-43C3-915C-0E4823C8ADCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B33617D-2D58-43C3-915C-0E4823C8ADCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B33617D-2D58-43C3-915C-0E4823C8ADCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B80D665-662E-4C15-84CE-E05C91840EB6}
+	EndGlobalSection
+EndGlobal

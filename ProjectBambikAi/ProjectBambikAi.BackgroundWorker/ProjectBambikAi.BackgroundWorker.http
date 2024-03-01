@@ -1,0 +1,6 @@
+@ProjectBambikAi.BackgroundWorker_HostAddress = http://localhost:5239
+
+GET {{ProjectBambikAi.BackgroundWorker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
